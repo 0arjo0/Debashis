@@ -1,0 +1,54 @@
+{
+  "traveler_name": "The Raman Family",
+  "source": "Kolkata",
+  "destination": "Singapore",
+  "start_date": "14/06/2026",
+  "return_date": "20/06/2026",
+  "segments": [
+    {
+      "type": "flight",
+      "origin": "Kolkata",
+      "destination": "Singapore",
+      "flight_number": "SQ 517",
+      "departure_time": "14/06/2026 23:45",
+      "arrival_time": "15/06/2026 06:35",
+      "terminal": "T2",
+      "notes": "Meals included. Family requests wheelchair support for grandparent."
+    },
+    {
+      "type": "hotel",
+      "city": "Singapore",
+      "hotel_name": "Harbour Bloom Hotel",
+      "check_in": "15/06/2026 14:00",
+      "check_out": "20/06/2026 11:00",
+      "address": "21 Marina View, Singapore",
+      "notes": "Two family rooms. Breakfast included."
+    },
+    {
+      "type": "activity",
+      "city": "Singapore",
+      "activity_name": "Gardens by the Bay",
+      "date": "16/06/2026 10:30",
+      "duration": "4 hours",
+      "notes": "Cloud Forest tickets confirmed."
+    },
+    {
+      "type": "activity",
+      "city": "Singapore",
+      "activity_name": "Sentosa Adventure Day",
+      "date": "18/06/2026 09:00",
+      "duration": "Full day",
+      "notes": "Includes cable car ride and aquarium entry."
+    },
+    {
+      "type": "flight",
+      "origin": "Singapore",
+      "destination": "Kolkata",
+      "flight_number": "SQ 516",
+      "departure_time": "20/06/2026 20:10",
+      "arrival_time": "20/06/2026 21:45",
+      "terminal": "T2",
+      "notes": "Arrive at airport 3 hours early during school holiday rush."
+    }
+  ]
+}
